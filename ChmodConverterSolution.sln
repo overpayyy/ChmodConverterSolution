@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChmodConverterLib", "ChmodC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChmodConverterTests", "ChmodConverterTests\ChmodConverterTests.csproj", "{460BB82F-D496-4042-9854-EDB00E9B0612}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChmodConverterConsole", "ChmodConverterConsole\ChmodConverterConsole.csproj", "{35B89963-344C-4B19-B377-2026DA1813D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{460BB82F-D496-4042-9854-EDB00E9B0612}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{460BB82F-D496-4042-9854-EDB00E9B0612}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{460BB82F-D496-4042-9854-EDB00E9B0612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B89963-344C-4B19-B377-2026DA1813D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B89963-344C-4B19-B377-2026DA1813D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B89963-344C-4B19-B377-2026DA1813D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B89963-344C-4B19-B377-2026DA1813D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
